@@ -1,0 +1,10 @@
+backend/node_modules/
+backend/dist/
+backend/coverage/
+
+# Prisma
+backend/prisma/dev.db
+backend/prisma/dev.db-journal
+
+# Environment
+backend/.env
